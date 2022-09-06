@@ -7,3 +7,5 @@ session_start();
 
 require_once "config.php";
 require_once "Core/Base/Settings/internal_settings.php";
+spl_autoload_register();
+

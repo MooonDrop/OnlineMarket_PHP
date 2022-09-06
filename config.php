@@ -2,7 +2,7 @@
 
 defined("VG_ACCESS") || die("Access denied"); 
 
-const SITE_URL = 'http://Market_PHP';
+const SITE_URL = 'http://OnlineMarket_PHP';
 const PATH = "/";
 
 const HOST = 'localhost';
